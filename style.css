@@ -11,6 +11,7 @@ body {
   align-items: center;
   height: 100vh; 
   margin: 0;
+  cursor: url("https://downloads.totallyfreecursors.com/cursor_files/eyered.ani"), url("https://downloads.totallyfreecursors.com/thumbnails/eyered.gif"), auto;
 }
 
 a {
@@ -25,6 +26,7 @@ a {
 
 a:hover {
   background-color: rgb(15, 15, 15);
+  cursor: url("https://downloads.totallyfreecursors.com/cursor_files/eyered.ani"), url("https://downloads.totallyfreecursors.com/thumbnails/eyered.gif"), auto;
 }
 
 a:visited {
