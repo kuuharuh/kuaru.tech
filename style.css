@@ -9,13 +9,13 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh; /* Esto hace que el body tenga el alto de la pantalla */
+  height: 100vh; 
   margin: 0;
 }
 
 a {
   color: rgb(217, 217, 217);
-  text-decoration: none; /* Quita subrayado */
+  text-decoration: none; 
   font-size: 24px;
   padding: 10px 20px;
   background-color: rgb(15, 15, 15);
@@ -28,5 +28,5 @@ a:hover {
 }
 
 a:visited {
-  color: rgb(217, 217, 217); /* Mantiene el color aunque ya hayas entrado */
+  color: rgb(217, 217, 217); 
 }
